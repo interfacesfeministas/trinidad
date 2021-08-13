@@ -58,6 +58,8 @@ body-2::-webkit-scrollbar {
   font-family: 'Karla', sans-serif;
   font-weight: 400;
   color: rgba(210, 210, 210, 1);
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
 
 #parallax {
