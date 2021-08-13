@@ -227,8 +227,8 @@ img {
 }
 
 .button-form {
-  background-color: rgba(210,0,0,1);
-  color: white;
+  background-color: transparent;
+  color: rgba(210,0,0,1);
   border-color: rgba(210,0,0,1);
   font-family: 'Karla', sans-serif;
   font-weight: 500;
@@ -244,9 +244,9 @@ a .button-form{
 }
 
 .button-form:hover {
-  background-color: black;
-  color: rgba(210,0,0,1);
-  border-color: rgba(210,0,0,1);
+  background-color: transparent;
+  color: white;
+  border-color: white;
 }
 
 h1, h2, h2-1, h3, h4 {
